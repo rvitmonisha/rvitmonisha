@@ -23,34 +23,22 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <strong>Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
-
 <br><br>
-
 <strong>Frontend</strong><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-
 <br><br>
-
 <strong>Backend</strong><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
 <br><br>
-
 <strong>AI & ML</strong><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
-
 <br><br>
-
 <strong>Databases</strong><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
 <br><br>
-
 <strong>Cloud & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
-
 <br><br>
-
 <strong>Tools</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
