@@ -1,83 +1,153 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=36&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+M+N+Monisha" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+M+N+Monisha" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=19&duration=3000&pause=900&color=B76E79&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+%7C+Learning+%7C+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=1000&height=60&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/m-n-monisha">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:mnmonisha39@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
-<br>
+---
 
-<p align="center">
-  Computer Science Engineering student passionate about <b>software development, AI/ML, full-stack development, cloud and DevOps.</b>
-  <br>
-  I enjoy turning ideas into practical applications and continuously improving through hands-on building and problem solving.
+## About Me
+
+I am a **Computer Science Engineering student at RV Institute of Technology and Management, Bangalore**, passionate about software engineering and building practical technology solutions.
+
+My interests span **software development, artificial intelligence, full-stack development, backend engineering, cloud and DevOps**.
+
+I enjoy solving problems, building applications from the ground up, and understanding the complete journey from **development to deployment and monitoring**.
+
+My current career focus is to become a strong **software engineer** with solid foundations in **Java, Data Structures & Algorithms, backend development and modern development practices**.
+
+---
+
+## Technical Skills
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-<br>
+### Full-Stack Development
 
-<h2 align="center">Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,fastapi" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,fastapi" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,postgres,mongodb" />
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux,git,github,vscode" />
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-<br>
+### Cloud & DevOps
 
-<h2 align="center">What I Enjoy Building</h2>
-
-<p align="center">
-  <code>Full-Stack Applications</code>
-  &nbsp;
-  <code>AI/ML Solutions</code>
-  &nbsp;
-  <code>Backend Systems</code>
-  &nbsp;
-  <code>Cloud-Native Applications</code>
-  &nbsp;
-  <code>DevOps Pipelines</code>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
 </p>
 
-<br>
+### Tools
 
-<h2 align="center">GitHub Contributions</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="92%"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<br>
+---
+
+## Core Strengths
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Data Structures & Algorithms
+
+Building strong problem-solving skills through **Java, algorithms, data structures and systematic problem solving**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Software Development
+
+Developing **full-stack applications, REST APIs and backend services** with practical architectures.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI & Machine Learning
+
+Working with **machine learning, deep learning, feature engineering and AI-powered applications**.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Cloud & DevOps
+
+Hands-on experience with **Docker, Kubernetes, CI/CD, monitoring and cloud-native development practices**.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Development Focus
 
 <p align="center">
-  <i>"Build something useful. Learn something new. Improve every day."</i>
+
+<img src="https://img.shields.io/badge/Java-DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Development-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineering-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
-<br>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-n-monisha">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:mnmonisha39@gmail.com">mnmonisha39@gmail.com</a>
-</p>
+## What I Work On
+
+```text
+Software Development
+        │
+        ├── Full-Stack Applications
+        ├── Backend Services
+        └── REST APIs
+
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── Deep Learning
+        └── AI-powered Applications
+
+Cloud & DevOps
+        │
+        ├── Docker
+        ├── Kubernetes
+        ├── CI/CD
+        └── Monitoring
+
+Problem Solving
+        │
+        ├── Data Structures
+        ├── Algorithms
+        └── Competitive Problem Solving
