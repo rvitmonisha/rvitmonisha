@@ -1,118 +1,100 @@
 <div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+M+N+Monisha" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+M+N+Monisha" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=27&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=1000&height=65&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
 </div>
 
----
+<h2 align="center">About Me</h2>
 
-<div align="center">
+<p align="center">
+I am a <strong>Computer Science Engineering student at RV Institute of Technology and Management, Bangalore</strong>, passionate about software engineering, artificial intelligence and building practical technology solutions.
+<br><br>
+I enjoy developing applications, solving programming problems, working with backend systems and exploring how modern software can be <strong>built, deployed and monitored</strong>.
+<br><br>
+My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud and DevOps</strong>.
+</p>
 
-## About Me
+<hr>
 
-</div>
+<h2 align="center">Tech Stack</h2>
 
-I am a **Computer Science Engineering student at RV Institute of Technology and Management, Bangalore**, passionate about software engineering, artificial intelligence and building practical technology solutions.
+<p align="center">
 
-I enjoy developing applications, solving programming problems, working with backend systems and exploring how modern software can be **built, deployed and monitored**.
-
-My primary focus is on **Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud and DevOps**.
-
-<br>
-
----
-
-<div align="center">
-
-## Tech Stack
-
-<br>
-
-### Languages
-
+<strong>Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
 <br><br>
 
-### Full-Stack Development
-
+<strong>Full-Stack Development</strong><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,fastapi" />
 
 <br><br>
 
-### AI & Machine Learning
-
+<strong>AI & Machine Learning</strong><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
 <br><br>
 
-### Databases
-
+<strong>Databases</strong><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 <br><br>
 
-### Cloud & DevOps
-
+<strong>Cloud & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
 
 <br><br>
 
-### Tools
-
+<strong>Tools</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-</div>
+</p>
 
-<br>
+<hr>
 
----
+<h2 align="center">Core Strengths</h2>
 
-<div align="center">
-
-## Core Strengths
-
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="33%">
 
-### DSA & Problem Solving
+<strong>DSA & Problem Solving</strong>
 
-Java  
-Data Structures  
-Algorithms  
+<br><br>
+
+Java<br>
+Data Structures<br>
+Algorithms<br>
 Logical Problem Solving
 
 </td>
 
 <td align="center" width="33%">
 
-### Software Development
+<strong>Software Development</strong>
 
-Full-Stack Development  
-Backend Development  
-REST APIs  
+<br><br>
+
+Full-Stack Development<br>
+Backend Development<br>
+REST APIs<br>
 Database Integration
 
 </td>
 
 <td align="center" width="33%">
 
-### AI & DevOps
+<strong>AI & DevOps</strong>
 
-Machine Learning  
-Deep Learning  
-Docker  
-Kubernetes  
+<br><br>
+
+Machine Learning<br>
+Deep Learning<br>
+Docker<br>
+Kubernetes<br>
 CI/CD
 
 </td>
@@ -120,17 +102,11 @@ CI/CD
 </tr>
 </table>
 
-</div>
+<hr>
 
-<br>
+<h2 align="center">Development Focus</h2>
 
----
-
-<div align="center">
-
-## Development Focus
-
-<br>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Java%20%26%20DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -142,55 +118,21 @@ CI/CD
 
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
 
-</div>
+</p>
 
-<br>
+<hr>
 
----
+<h2 align="center">GitHub Contributions</h2>
 
-<div align="center">
-
-## GitHub Contributions
-
-<br>
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="95%"/>
+</p>
 
-</div>
+<hr>
 
-<br>
+<h2 align="center">Let's Connect</h2>
 
----
-
-<div align="center">
-
-## Career Goal
-
-<br>
-
-<strong>Become a strong software engineer with solid problem-solving skills and the ability to build, deploy and maintain real-world applications.</strong>
-
-<br><br>
-
-Java & DSA  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-Software Development  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-AI/ML  
-&nbsp;&nbsp;•&nbsp;&nbsp;
-Cloud & DevOps
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## Let's Connect
-
-<br>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/m-n-monisha">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -206,4 +148,4 @@ Cloud & DevOps
 
 <sub>Building practical solutions • Solving problems • Growing as a software engineer</sub>
 
-</div>
+</p>
