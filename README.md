@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+M+N+Monisha" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+M+N+Monisha" />
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
 </div>
@@ -24,27 +24,32 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 <strong>Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
-<strong>Frontend & Backend</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,fastapi" />
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
+
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+
+<br><br>
 
 <strong>AI & ML</strong><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <strong>Databases</strong><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <strong>Cloud & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
 
-&nbsp;&nbsp;&nbsp;
+<br><br>
 
 <strong>Tools</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -110,19 +115,23 @@ Docker · Kubernetes · CI/CD
 
 <h2 align="center">Let's Connect</h2>
 
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://www.linkedin.com/in/m-n-monisha">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</td>
 
-&nbsp;&nbsp;
+<td width="25"></td>
 
+<td align="center">
 <a href="mailto:mnmonisha39@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <sub>Building practical solutions • Solving problems • Growing as a software engineer</sub>
