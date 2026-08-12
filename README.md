@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=850&height=55&lines=Hi%2C+I'm+M+N+Monisha" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
 </div>
@@ -10,9 +9,9 @@
 
 <p align="center">
 I am a <strong>Computer Science Engineering student at RV Institute of Technology and Management, Bangalore</strong>, passionate about software engineering, artificial intelligence and building practical technology solutions.
-<br><br>
+<br>
 I enjoy developing applications, solving programming problems, working with backend systems and exploring how modern software can be <strong>built, deployed and monitored</strong>.
-<br><br>
+<br>
 My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud and DevOps</strong>.
 </p>
 
@@ -25,27 +24,27 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 <strong>Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
-<strong>Full-Stack Development</strong><br>
+<strong>Frontend & Backend</strong><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,fastapi" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
-<strong>AI & Machine Learning</strong><br>
+<strong>AI & ML</strong><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
 <strong>Databases</strong><br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
 <strong>Cloud & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
 
-<br><br>
+&nbsp;&nbsp;&nbsp;
 
 <strong>Tools</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -61,41 +60,26 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <td align="center" width="33%">
 
-<strong>DSA & Problem Solving</strong>
-
-<br><br>
-
-Java<br>
-Data Structures<br>
-Algorithms<br>
-Logical Problem Solving
+<strong>DSA & Problem Solving</strong><br><br>
+Java · Data Structures<br>
+Algorithms · Logical Problem Solving
 
 </td>
 
 <td align="center" width="33%">
 
-<strong>Software Development</strong>
-
-<br><br>
-
+<strong>Software Development</strong><br><br>
 Full-Stack Development<br>
-Backend Development<br>
-REST APIs<br>
+Backend Development · REST APIs<br>
 Database Integration
 
 </td>
 
 <td align="center" width="33%">
 
-<strong>AI & DevOps</strong>
-
-<br><br>
-
-Machine Learning<br>
-Deep Learning<br>
-Docker<br>
-Kubernetes<br>
-CI/CD
+<strong>AI & DevOps</strong><br><br>
+Machine Learning · Deep Learning<br>
+Docker · Kubernetes · CI/CD
 
 </td>
 
@@ -107,17 +91,11 @@ CI/CD
 <h2 align="center">Development Focus</h2>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Java%20%26%20DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Backend%20Development-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
-
 </p>
 
 <hr>
@@ -135,17 +113,17 @@ CI/CD
 <p align="center">
 
 <a href="https://www.linkedin.com/in/m-n-monisha">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:mnmonisha39@gmail.com">
-<img src="https://img.shields.io/badge/Email-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+</p>
 
+<p align="center">
 <sub>Building practical solutions • Solving problems • Growing as a software engineer</sub>
-
 </p>
