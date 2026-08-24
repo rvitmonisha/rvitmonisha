@@ -150,6 +150,102 @@ Docker · Kubernetes · CI/CD
 
 <hr>
 
+<h2 align="center">Featured Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">CodeShield</h3>
+
+<p align="center">
+Static Security Analysis Platform
+</p>
+
+<p>
+A full-stack security analysis platform that uses a Rust-based scanning engine to detect predefined vulnerabilities, classify severity and CWE identifiers, generate JSON reports, and display findings through an interactive dashboard.
+</p>
+
+<p align="center">
+<strong>Rust · Express.js · React · Vite · Node.js</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Amazon Canada Product Intelligence</h3>
+
+<p align="center">
+AI-Powered Product Intelligence & Price Tracking
+</p>
+
+<p>
+A full-stack platform for Amazon Canada product extraction, price tracking, historical price analysis, product comparison, and AI-powered product insights.
+</p>
+
+<p align="center">
+<strong>Python · FastAPI · React · Vite · Tailwind CSS</strong>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">AI Airway Obstruction Detection</h3>
+
+<p align="center">
+AI-Based Respiratory Sound Analysis
+</p>
+
+<p>
+A deep learning application that analyzes respiratory sounds using audio feature extraction and CNN-based classification to identify respiratory sound patterns.
+</p>
+
+<p align="center">
+<strong>Python · TensorFlow · CNN · MFCC · Spectrograms</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Student Management System</h3>
+
+<p align="center">
+Full-Stack Student Management Application
+</p>
+
+<p>
+A MERN-based web application for managing student information with a React frontend, Express.js backend, MongoDB database, authentication, and REST APIs.
+</p>
+
+<p align="center">
+<strong>MongoDB · Express.js · React · Node.js</strong>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h2 align="center">Education</h2>
+
+<p align="center">
+<strong>B.E. in Computer Science and Engineering</strong>
+<br>
+RV Institute of Technology and Management, Bangalore
+</p>
+
+<hr>
+
 <h2 align="center">GitHub Contributions</h2>
 
 <p align="center">
