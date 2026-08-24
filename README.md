@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+M+N+Monisha" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=65&lines=Hi%2C+I'm+M+N+Monisha" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
 </div>
@@ -9,9 +10,9 @@
 
 <p align="center">
 I am a <strong>Computer Science Engineering student at RV Institute of Technology and Management, Bangalore</strong>, passionate about software engineering, artificial intelligence and building practical technology solutions.
-<br>
+<br><br>
 I enjoy developing applications, solving programming problems, working with backend systems and exploring how modern software can be <strong>built, deployed and monitored</strong>.
-<br>
+<br><br>
 My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud and DevOps</strong>.
 </p>
 
@@ -21,26 +22,21 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <p align="center">
 
-<strong>Languages</strong><br>
-<img src="https://skillicons.dev/icons?i=java,python,c" />
-<br><br>
-<strong>Frontend</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-<br><br>
-<strong>Backend</strong><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-<br><br>
-<strong>AI & ML</strong><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
-<br><br>
-<strong>Databases</strong><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<br><br>
-<strong>Cloud & DevOps</strong><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
-<br><br>
-<strong>Tools</strong><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<strong>Languages</strong><br> <img src="https://skillicons.dev/icons?i=java,python,c,rust" /> <br><br>
+
+<strong>Frontend</strong><br> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" /> <br><br>
+
+<strong>Backend</strong><br> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> <br><br>
+
+<strong>AI & ML</strong><br> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" /> <br><br>
+
+<strong>Databases</strong><br> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> <br><br>
+
+<strong>Cloud & DevOps</strong><br> <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" /> <br><br>
+
+<strong>Security & Development</strong><br> <img src="https://img.shields.io/badge/Rust%20Security%20Analysis-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <br><br>
+
+<strong>Tools</strong><br> <img src="https://skillicons.dev/icons?i=git,github,vscode,cargo" />
 
 </p>
 
@@ -88,7 +84,36 @@ Docker · Kubernetes · CI/CD
 <img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust%20Security-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<hr>
+
+<h2 align="center">Projects & Technologies</h2>
+
+<p align="center">
+<strong>CodeShield — Static Security Analysis Platform</strong>
+</p>
+
+<p align="center">
+Rust Security Scanner · Express.js · Node.js · React · Vite · JavaScript · Recharts · Cargo · JSON
+</p>
+
+<p align="center">
+A full-stack security analysis platform that detects predefined vulnerabilities in source code,
+classifies findings using severity and CWE identifiers, generates JSON security reports,
+and presents results through an interactive React dashboard.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge"/>
 </p>
 
 <hr>
@@ -105,6 +130,7 @@ Docker · Kubernetes · CI/CD
 
 <table align="center">
 <tr>
+
 <td align="center">
 <a href="https://www.linkedin.com/in/m-n-monisha">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -118,6 +144,7 @@ Docker · Kubernetes · CI/CD
 <img src="https://img.shields.io/badge/EMAIL-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
+
 </tr>
 </table>
 
