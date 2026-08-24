@@ -52,6 +52,56 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <hr>
 
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-FF69B4?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-FF69B4?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-FF69B4?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FF69B4?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-FF69B4?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-FF69B4?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-FF69B4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub%20Actions-FF69B4?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-FF69B4?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-FF69B4?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-FF69B4?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Recharts-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cargo-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<hr>
+
 <h2 align="center">Core Strengths</h2>
 
 <table align="center">
