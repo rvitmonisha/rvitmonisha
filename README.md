@@ -164,7 +164,7 @@ Static Security Analysis Platform
 </p>
 
 <p>
-A full-stack security analysis platform that uses a Rust-based scanning engine to detect predefined vulnerabilities, classify severity and CWE identifiers, generate JSON reports, and display findings through an interactive dashboard.
+A full-stack security analysis platform that uses a Rust-based scanning engine to detect predefined vulnerabilities, classify severity and CWE identifiers, generate JSON reports, and display findings through an interactive security dashboard.
 </p>
 
 <p align="center">
@@ -215,18 +215,18 @@ A deep learning application that analyzes respiratory sounds using audio feature
 
 <td width="50%" valign="top">
 
-<h3 align="center">Student Management System</h3>
+<h3 align="center">Cloud-Native DevOps Platform</h3>
 
 <p align="center">
-Full-Stack Student Management Application
+Containerized Microservices & CI/CD Platform
 </p>
 
 <p>
-A MERN-based web application for managing student information with a React frontend, Express.js backend, MongoDB database, authentication, and REST APIs.
+A cloud-native DevOps platform built around containerized microservices, API gateway routing, automated CI/CD, Kubernetes deployment, and application monitoring. The platform integrates observability tools to monitor service health, system metrics, and application performance.
 </p>
 
 <p align="center">
-<strong>MongoDB · Express.js · React · Node.js</strong>
+<strong>Docker · Kubernetes · GitHub Actions · Prometheus · Grafana · Nginx</strong>
 </p>
 
 </td>
