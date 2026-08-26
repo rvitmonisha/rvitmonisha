@@ -22,28 +22,28 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <p align="center">
 
-<strong>Languages</strong><br>
+<strong>Programming Languages</strong><br>
 <img src="https://skillicons.dev/icons?i=java,python,c,rust" />
 
 <br><br>
 
-<strong>Frontend</strong><br>
+<strong>Frontend Development</strong><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
 <br><br>
 
-<strong>Backend</strong><br>
+<strong>Backend Development</strong><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 <br><br>
 
-<strong>AI & ML</strong><br>
+<strong>AI & Machine Learning</strong><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
 <br><br>
 
 <strong>Databases</strong><br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 
 <br><br>
 
@@ -52,7 +52,7 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <br><br>
 
-<strong>Tools</strong><br>
+<strong>Tools & Development</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
@@ -191,26 +191,6 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 </tr>
 </table>
-
-<hr>
-
-<h2 align="center">Education</h2>
-
-<p align="center">
-<strong>B.E. in Computer Science and Engineering</strong>
-<br>
-RV Institute of Technology and Management, Bangalore
-</p>
-
-<hr>
-
-<h2 align="center">GitHub Contributions</h2>
-
-<p align="center">
-<a href="https://github.com/rvitmonisha">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
-</a>
-</p>
 
 <hr>
 
