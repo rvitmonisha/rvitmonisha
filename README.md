@@ -4,13 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rvitmonisha&label=Profile%20Views&color=FF69B4&style=for-the-badge" />
-
 </div>
-
-<hr>
 
 <h2 align="center">About Me</h2>
 
@@ -21,56 +15,6 @@ I enjoy developing applications, solving programming problems, working with back
 <br><br>
 My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud, and DevOps</strong>.
 </p>
-
-<hr>
-
-<h2 align="center">What I Build</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-<strong>AI & ML</strong><br><br>
-Machine Learning<br>
-Deep Learning<br>
-AI-Powered Applications<br>
-Intelligent Prediction Systems
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Full-Stack</strong><br><br>
-React<br>
-Node.js<br>
-FastAPI<br>
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Backend</strong><br><br>
-API Development<br>
-Authentication<br>
-Databases<br>
-System Integration
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>Cloud & DevOps</strong><br><br>
-Docker<br>
-Kubernetes<br>
-CI/CD<br>
-Monitoring
-
-</td>
-
-</tr>
-</table>
 
 <hr>
 
@@ -108,7 +52,7 @@ Monitoring
 
 <br><br>
 
-<strong>Tools</strong><br>
+<strong>Tools & Development</strong><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
@@ -176,15 +120,15 @@ Docker · Kubernetes · CI/CD
 <h3 align="center">Lunara</h3>
 
 <p align="center">
-AI-Powered Women's Health and PCOS Wellness Platform
+AI-Powered Women's Health & PCOS Wellness Platform
 </p>
 
 <p>
-A full-stack women's health and wellness platform combining a React Native mobile application, Node.js and Express backend, MongoDB database, and Python/FastAPI machine learning service. The platform provides menstrual cycle tracking, symptom tracking, emotional well-being features, PCOS risk screening, AI-powered insights, and personalized wellness support.
+A full-stack women's health and wellness platform that combines menstrual cycle tracking, symptom tracking, emotional well-being, PCOS risk screening, AI-powered insights, and personalized wellness support.
 </p>
 
 <p align="center">
-<strong>React Native · Expo · Node.js · Express · MongoDB · FastAPI · Python · XGBoost</strong>
+<strong>React Native · Expo · Node.js · Express · MongoDB · FastAPI · Python · XGBoost · SHAP</strong>
 </p>
 
 </td>
@@ -220,7 +164,7 @@ AI-Powered Product Intelligence & Price Tracking
 </p>
 
 <p>
-A full-stack platform for product extraction, price tracking, historical price analysis, product comparison, and AI-powered product insights.
+A full-stack platform for Amazon Canada product extraction, price tracking, historical price analysis, product comparison, and AI-powered product insights.
 </p>
 
 <p align="center">
@@ -260,7 +204,7 @@ Containerized Microservices & CI/CD Platform
 </p>
 
 <p>
-A cloud-native DevOps platform built around containerized microservices, API gateway routing, automated CI/CD, Kubernetes deployment, and application monitoring. The platform integrates observability tools to monitor service health, system metrics, and application performance.
+A cloud-native DevOps platform built around containerized microservices, API gateway routing, automated CI/CD, Kubernetes deployment, and application monitoring.
 </p>
 
 <p align="center">
@@ -271,6 +215,16 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 <td width="50%" valign="top">
 
+<h3 align="center">Technical Interests</h3>
+
+<p>
+I am continuously exploring software engineering, artificial intelligence, backend systems, cloud-native development, DevOps, system design, and efficient problem solving.
+</p>
+
+<p align="center">
+<strong>Build · Deploy · Learn · Improve</strong>
+</p>
+
 </td>
 
 </tr>
@@ -278,35 +232,15 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 <hr>
 
-<h2 align="center">Currently Focusing On</h2>
+<h2 align="center">Current Learning Focus</h2>
 
 <p align="center">
 
-<strong>Java & DSA</strong> — strengthening problem-solving and coding skills
-<br><br>
-<strong>Backend Engineering</strong> — building scalable REST APIs and integrated systems
-<br><br>
-<strong>AI/ML</strong> — developing practical machine learning applications
-<br><br>
-<strong>Cloud & DevOps</strong> — containerization, orchestration, CI/CD and monitoring
-<br><br>
-<strong>Rust</strong> — exploring systems programming and secure software development
-
-</p>
-
-<hr>
-
-<h2 align="center">Engineering Interests</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend%20Engineering-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/DevOps-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cybersecurity-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Systems%20Programming-FF69B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java%20Programming-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Native-FF69B4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
 </p>
 
@@ -335,5 +269,5 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 </table>
 
 <p align="center">
-<sub>Building practical solutions • Solving problems • Learning continuously • Growing as a software engineer</sub>
+<sub>Building practical solutions • Solving problems • Growing as a software engineer</sub>
 </p>
