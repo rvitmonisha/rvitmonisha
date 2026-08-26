@@ -98,12 +98,19 @@ Docker · Kubernetes · CI/CD
 <h2 align="center">Development Focus</h2>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Java%20%26%20DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AI%2FML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Full--Stack-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Rust-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 <hr>
@@ -230,20 +237,44 @@ I am continuously improving my skills in software engineering, Java and DSA, bac
 
 <hr>
 
+<h2 align="center">GitHub Statistics</h2>
+
+<p align="center">
+<a href="https://github.com/rvitmonisha">
+<img src="https://github-readme-stats.vercel.app/api?username=rvitmonisha&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rvitmonisha">
+<img src="https://github-readme-streak-stats.demolab.com/?user=rvitmonisha&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rvitmonisha">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvitmonisha&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</a>
+</p>
+
+<hr>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+<a href="https://github.com/rvitmonisha">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+</a>
+</p>
+
+<hr>
+
 <h2 align="center">Education</h2>
 
 <p align="center">
 <strong>B.E. in Computer Science and Engineering</strong>
 <br>
 RV Institute of Technology and Management, Bangalore
-</p>
-
-<hr>
-
-<h2 align="center">GitHub Contributions</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
 <hr>
