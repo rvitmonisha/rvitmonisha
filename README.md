@@ -22,31 +22,39 @@ My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack De
 
 <p align="center">
 
-<strong>Languages</strong><br> <img src="https://skillicons.dev/icons?i=java,python,c,rust" />
+<strong>Languages</strong><br>
+<img src="https://skillicons.dev/icons?i=java,python,c,rust" />
 
 <br><br>
 
-<strong>Frontend</strong><br> <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<strong>Frontend</strong><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
 
 <br><br>
 
-<strong>Backend</strong><br> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<strong>Backend</strong><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 
 <br><br>
 
-<strong>AI & ML</strong><br> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+<strong>AI & ML</strong><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
 
 <br><br>
 
-<strong>Databases</strong><br> <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<strong>Databases</strong><br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 <br><br>
 
-<strong>Cloud & DevOps</strong><br> <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
+<strong>Cloud & DevOps</strong><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
 
 <br><br>
 
-<strong>Tools</strong><br> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<strong>Tools</strong><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
 
 </p>
 
@@ -107,6 +115,24 @@ Docker · Kubernetes · CI/CD
 
 <td width="50%" valign="top">
 
+<h3 align="center">Lunara</h3>
+
+<p align="center">
+AI-Powered Women's Health & PCOS Wellness Platform
+</p>
+
+<p>
+A full-stack women's health and wellness platform that combines a React Native mobile application, Node.js/Express backend, MongoDB database, and FastAPI-based AI/ML service. The platform provides menstrual cycle tracking, symptom monitoring, emotional well-being input, PCOS risk screening, AI-powered insights, and personalized wellness support.
+</p>
+
+<p align="center">
+<strong>React Native · Expo · Node.js · Express · MongoDB · FastAPI · Python · XGBoost</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h3 align="center">CodeShield</h3>
 
 <p align="center">
@@ -122,6 +148,10 @@ A full-stack security analysis platform that uses a Rust-based scanning engine t
 </p>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -141,10 +171,6 @@ A full-stack platform for Amazon Canada product extraction, price tracking, hist
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
 <h3 align="center">AI Airway Obstruction Detection</h3>
@@ -163,6 +189,10 @@ A deep learning application that analyzes respiratory sounds using audio feature
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">Cloud-Native DevOps Platform</h3>
@@ -177,6 +207,20 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 <p align="center">
 <strong>Docker · Kubernetes · GitHub Actions · Prometheus · Grafana · Nginx</strong>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Technical Interests</h3>
+
+<p>
+I am continuously improving my skills in software engineering, Java and DSA, backend development, artificial intelligence, machine learning, cloud computing, DevOps, and systems programming with Rust.
+</p>
+
+<p align="center">
+<strong>Java · DSA · AI/ML · Backend · Cloud · DevOps · Rust</strong>
 </p>
 
 </td>
@@ -199,7 +243,7 @@ RV Institute of Technology and Management, Bangalore
 <h2 align="center">GitHub Contributions</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFFFFF&area_color=FF69B4&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
 <hr>
