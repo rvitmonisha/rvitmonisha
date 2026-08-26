@@ -98,12 +98,14 @@ Docker · Kubernetes · CI/CD
 <h2 align="center">Development Focus</h2>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Java%20%26%20DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 <hr>
@@ -112,6 +114,24 @@ Docker · Kubernetes · CI/CD
 
 <table align="center">
 <tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Lunara</h3>
+
+<p align="center">
+AI-Powered Women's Health and PCOS Wellness Platform
+</p>
+
+<p>
+A full-stack women's health and wellness platform combining a React Native mobile application, Node.js and Express backend, MongoDB database, and Python/FastAPI machine learning service. The platform provides menstrual cycle tracking, symptom tracking, emotional well-being features, PCOS risk screening, AI-powered insights, and personalized wellness support.
+</p>
+
+<p align="center">
+<strong>React Native · Expo · Node.js · Express · MongoDB · FastAPI · Python · XGBoost</strong>
+</p>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -131,6 +151,10 @@ A full-stack security analysis platform that uses a Rust-based scanning engine t
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">Amazon Canada Product Intelligence</h3>
@@ -148,10 +172,6 @@ A full-stack platform for Amazon Canada product extraction, price tracking, hist
 </p>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -171,6 +191,10 @@ A deep learning application that analyzes respiratory sounds using audio feature
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">Cloud-Native DevOps Platform</h3>
@@ -189,15 +213,19 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 </td>
 
+<td width="50%" valign="top">
+
+</td>
+
 </tr>
 </table>
 
 <hr>
 
-<h2 align="center">GitHub Contributions</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&theme=github-compact&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&theme=react-dark&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 </p>
 
 <hr>
