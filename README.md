@@ -312,15 +312,6 @@ A cloud-native DevOps platform built around containerized microservices, API gat
 
 <hr>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rvitmonisha&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFFFFF&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvitmonisha&layout=compact&hide_border=true&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117" height="170"/>
-</p>
-
-<hr>
-
 <h2 align="center">Let's Connect</h2>
 
 <table align="center">
