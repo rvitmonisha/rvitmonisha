@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=172033&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Monisha;Welcome+to+my+corner+of+GitHub;Code+%2B+AI+%2B+Cloud+%2B+Curiosity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=28&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Hi%2C%20I'm%20M%20N%20Monisha;Welcome%20to%20my%20corner%20of%20GitHub;Code%20%2B%20AI%20%2B%20Cloud%20%2B%20Curiosity" alt="Hi, I'm M N Monisha" />
 
 <br/>
 
@@ -31,6 +31,7 @@ class Monisha:
 
     def say_hi(self):
         return "Welcome to my GitHub"
+
 ```
 
 > Curious about technology, interested in AI, and always working on something new.
