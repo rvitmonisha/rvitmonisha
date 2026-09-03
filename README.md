@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Monisha;Welcome+to+my+corner+of+GitHub;Code+%2B+AI+%2B+Cloud+%2B+Curiosity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=172033&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Monisha;Welcome+to+my+corner+of+GitHub;Code+%2B+AI+%2B+Cloud+%2B+Curiosity" alt="Typing SVG" />
 
 <br/>
 
@@ -351,25 +351,11 @@ Systems
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Current%20Streak-5%20Days-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+
 <img src="https://img.shields.io/github/followers/rvitmonisha?label=Followers&style=for-the-badge&logo=github&color=7C3AED" />
 
 <img src="https://img.shields.io/github/stars/rvitmonisha?label=Stars&style=for-the-badge&logo=github&color=06B6D4" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=rvitmonisha&theme=tokyonight&hide_border=true&ring=A78BFA&fire=F9A8D4&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=67E8F9&line=A78BFA&point=F9A8D4" width="95%" />
 
 </div>
 
