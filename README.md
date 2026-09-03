@@ -1,273 +1,421 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=46&duration=1&pause=100000&color=FF69B4&center=true&vCenter=true&width=900&height=65&lines=Hi%2C+I'm+M+N+Monisha" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Monisha;Welcome+to+my+corner+of+GitHub;Code+%2B+AI+%2B+Cloud+%2B+Curiosity" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=900&height=45&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Java+%7C+DSA+%7C+Backend+Development;Building+%7C+Learning+%7C+Improving" />
+<br/>
+
+<img src="https://img.shields.io/badge/Computer%20Science%20Student-0F172A?style=for-the-badge&logo=academia&logoColor=67E8F9" />
+<img src="https://img.shields.io/badge/RVITM-0F172A?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%7C%20Full%20Stack-0F172A?style=for-the-badge&logo=python&logoColor=F9A8D4" />
 
 </div>
 
-<h2 align="center">About Me</h2>
+---
 
-<p align="center">
-I am a <strong>Computer Science Engineering student at RV Institute of Technology and Management, Bangalore</strong>, passionate about software engineering, artificial intelligence, and building practical technology solutions.
-<br><br>
-I enjoy developing applications, solving programming problems, working with backend systems, and exploring how modern software can be <strong>built, deployed, and monitored</strong>.
-<br><br>
-My primary focus is on <strong>Java, Data Structures & Algorithms, Full-Stack Development, Backend Engineering, AI/ML, Cloud, and DevOps</strong>.
-</p>
+## About Me
 
-<hr>
+```python
+class Monisha:
+    def __init__(self):
+        self.name = "M N Monisha"
+        self.role = "Computer Science Student"
+        self.interests = [
+            "Java and Data Structures & Algorithms",
+            "AI and Machine Learning",
+            "Full Stack Development",
+            "Cloud and DevOps",
+            "Systems Programming"
+        ]
+        self.currently = "Building intelligent and scalable applications"
+        self.goal = "Turn ideas into real-world software"
 
-<h2 align="center">Tech Stack</h2>
+    def say_hi(self):
+        return "Welcome to my GitHub"
+```
 
-<p align="center">
+> Curious about technology, interested in AI, and always working on something new.
 
-<strong>Programming Languages</strong><br>
-<img src="https://skillicons.dev/icons?i=java,python,c,rust" />
+---
 
-<br><br>
+## Tech Stack
 
-<strong>Frontend Development</strong><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<div align="center">
 
-<br><br>
+### Languages
 
-<strong>Backend Development</strong><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,rust" />
 
-<br><br>
+### AI and Machine Learning
 
-<strong>AI & Machine Learning</strong><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-<br><br>
+<br/><br/>
 
-<strong>Databases</strong><br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+`Scikit-learn` · `XGBoost` · `LightGBM` · `Pandas` · `NumPy` · `SHAP` · `Optuna` · `MLflow`
 
-<br><br>
+### Development
 
-<strong>Cloud & DevOps</strong><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,prometheus,grafana,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
 
-<br><br>
+### Databases
 
-<strong>Tools & Development</strong><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 
-</p>
+### Cloud and DevOps
 
-<hr>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,prometheus,grafana" />
 
-<h2 align="center">Core Strengths</h2>
+### Tools
 
-<table align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<strong>DSA & Problem Solving</strong><br><br>
-Java · Data Structures<br>
-Algorithms · Logical Problem Solving
+### Lunara
+
+**`React Native` · `FastAPI` · `Node.js` · `MongoDB` · `Machine Learning`**
+
+An AI-powered women's health application focused on PCOS risk screening and intelligent health insights.
+
+* PCOS risk prediction using Machine Learning
+* Feature-based risk analysis
+* SHAP-powered model explainability
+* Emotion detection capabilities
+* AI prediction APIs using FastAPI
+* React Native mobile application
+* MongoDB-backed application architecture
+* Integrated backend authentication and APIs
+
+<br/>
+
+**AI/ML:** `Scikit-learn` · `XGBoost` · `SHAP`
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<strong>Software Development</strong><br><br>
-Full-Stack Development<br>
-Backend Development · REST APIs<br>
-Database Integration
+### AutoML Researcher
+
+**`Python` · `Scikit-learn` · `XGBoost` · `LightGBM` · `Optuna` · `SHAP` · `MLflow`**
+
+An automated machine-learning research platform focused on model experimentation, optimization, evaluation, and explainability.
+
+* Automated ML experimentation
+* Hyperparameter optimization with Optuna
+* XGBoost and LightGBM model support
+* Model evaluation pipelines
+* SHAP-based explainability
+* Experiment tracking with MLflow
+* Modular ML-engine architecture
+* Docker-ready architecture
+
+<br/>
+
+**Focus:** `AutoML` · `Experiment Tracking` · `Model Explainability`
 
 </td>
 
-<td align="center" width="33%">
+</tr>
 
-<strong>AI & DevOps</strong><br><br>
-Machine Learning · Deep Learning<br>
-Docker · Kubernetes · CI/CD
+<tr>
+
+<td width="50%" valign="top">
+
+### AI Airway Obstruction Detection
+
+**`Python` · `TensorFlow/Keras` · `MFCC` · `Spectrogram` · `Machine Learning`**
+
+An AI-based respiratory sound classification project using the ICBHI 2017 respiratory sound dataset.
+
+* Respiratory audio signal processing
+* MFCC feature extraction
+* Spectrogram-based representation
+* Deep learning classification
+* Model evaluation and testing
+* Healthcare-focused AI application
+
+<br/>
+
+**Dataset:** `ICBHI 2017 Respiratory Sound Database`
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Website Intelligence Platform
+
+**`FastAPI` · `React` · `Python` · `AI`**
+
+A full-stack platform designed to scrape, process, and extract useful intelligence from websites.
+
+* Automated website scraping
+* AI-powered content processing
+* FastAPI backend
+* React frontend
+* Structured information extraction
+* Interactive results interface
+* API-driven architecture
+
+<br/>
+
+**Focus:** `Web Intelligence` · `AI` · `Full Stack`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Amazon Canada Product Intelligence
+
+**`FastAPI` · `React` · `Python` · `Data Analytics`**
+
+A product intelligence and price-tracking platform focused on extracting and analyzing Amazon Canada product information.
+
+* Product data extraction
+* Price tracking
+* Product analytics
+* Search and filtering
+* FastAPI backend
+* React dashboard
+* Data-driven product insights
+
+<br/>
+
+**Focus:** `Data Intelligence` · `Web Scraping` · `Analytics`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Student Management System
+
+**`MERN Stack` · `MongoDB` · `Express` · `React` · `Node.js`**
+
+A full-stack student management application designed to manage student information through a web-based interface.
+
+* Student record management
+* React frontend
+* Node.js backend
+* Express REST APIs
+* MongoDB database
+* Backend-driven architecture
+* Responsive application interface
+
+<br/>
+
+**Focus:** `Full Stack Development` · `REST APIs` · `Database Management`
 
 </td>
 
 </tr>
 </table>
 
-<hr>
+---
 
-<h2 align="center">Development Focus</h2>
+## Current Focus
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java%20%26%20DSA-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-FF69B4?style=for-the-badge&logo=rust&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-FF69B4?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20%26%20DSA-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-</p>
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-<hr>
+<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-A78BFA?style=for-the-badge&logo=docker&logoColor=white" />
 
-<h2 align="center">Featured Projects</h2>
+<img src="https://img.shields.io/badge/Rust-0F172A?style=for-the-badge&logo=rust&logoColor=F9A8D4" />
 
-<table align="center">
-<tr>
+</div>
 
-<td width="50%" valign="top">
+<br/>
 
-<h3 align="center">Lunara</h3>
+I am currently strengthening my skills in:
 
-<p align="center">
-AI-Powered Women's Health & PCOS Wellness Platform
-</p>
+* Java and Data Structures & Algorithms
+* Machine Learning and Model Evaluation
+* Python for AI and Machine Learning
+* Full Stack Development
+* Docker and Containerization
+* Kubernetes and Cloud-Native Development
+* ML Experiment Tracking and MLOps
+* Rust Programming
+* Backend API Development
 
-<p>
-A full-stack women's health and wellness platform that combines menstrual cycle tracking, symptom tracking, emotional well-being, PCOS risk screening, AI-powered insights, and personalized wellness support.
-</p>
+---
 
-<p align="center">
-<strong>React Native · Expo · Node.js · Express · MongoDB · FastAPI · Python · XGBoost · SHAP</strong>
-</p>
+## AI and ML Toolkit
 
-</td>
+<div align="center">
 
-<td width="50%" valign="top">
+| Area                | Technologies                      |
+| ------------------- | --------------------------------- |
+| Data Processing     | Pandas · NumPy · OpenPyXL         |
+| Machine Learning    | Scikit-learn · XGBoost · LightGBM |
+| Optimization        | Optuna · GridSearchCV             |
+| Explainability      | SHAP                              |
+| Experiment Tracking | MLflow                            |
+| Visualization       | Matplotlib · Plotly               |
+| Deep Learning       | TensorFlow · Keras                |
+| APIs                | FastAPI · Flask                   |
+| Deployment          | Docker · Kubernetes               |
 
-<h3 align="center">CodeShield</h3>
+</div>
 
-<p align="center">
-Static Security Analysis Platform
-</p>
+---
 
-<p>
-A full-stack security analysis platform that uses a Rust-based scanning engine to detect predefined vulnerabilities, classify severity and CWE identifiers, generate JSON reports, and display findings through an interactive security dashboard.
-</p>
+## Cloud and DevOps
 
-<p align="center">
-<strong>Rust · Express.js · React · Vite · Node.js</strong>
-</p>
+<div align="center">
 
-</td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,prometheus,grafana" />
 
-</tr>
+</div>
 
-<tr>
+I am interested in building applications that move from development to production through modern engineering workflows.
 
-<td width="50%" valign="top">
+### Areas of Interest
 
-<h3 align="center">Amazon Canada Product Intelligence</h3>
+`Docker` · `Kubernetes` · `AWS` · `Nginx` · `Prometheus` · `Grafana` · `CI/CD` · `Cloud-Native Architecture`
 
-<p align="center">
-AI-Powered Product Intelligence & Price Tracking
-</p>
+---
 
-<p>
-A full-stack platform for Amazon Canada product extraction, price tracking, historical price analysis, product comparison, and AI-powered product insights.
-</p>
+## Learning Path
 
-<p align="center">
-<strong>Python · FastAPI · React · Vite · Tailwind CSS</strong>
-</p>
+```text
+Java
+ |
+ +-- Object-Oriented Programming
+ +-- Collections
+ +-- Algorithms
+ +-- Data Structures
+ +-- Problem Solving
 
-</td>
+Machine Learning
+ |
+ +-- Data Preprocessing
+ +-- Feature Engineering
+ +-- Model Selection
+ +-- Hyperparameter Optimization
+ +-- Model Evaluation
+ +-- Explainable AI
+ +-- MLOps
 
-<td width="50%" valign="top">
+Software Engineering
+ |
+ +-- REST APIs
+ +-- Backend Development
+ +-- Full Stack Architecture
+ +-- Docker
+ +-- Kubernetes
+ +-- Cloud Deployment
 
-<h3 align="center">AI Airway Obstruction Detection</h3>
+Systems
+ |
+ +-- Rust
+ +-- Linux
+ +-- Systems Programming
+```
 
-<p align="center">
-AI-Based Respiratory Sound Analysis
-</p>
+---
 
-<p>
-A deep learning application that analyzes respiratory sounds using audio feature extraction and CNN-based classification to identify respiratory sound patterns.
-</p>
+## Engineering Interests
 
-<p align="center">
-<strong>Python · TensorFlow · CNN · MFCC · Spectrograms</strong>
-</p>
+<div align="center">
 
-</td>
+<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge&logo=python&logoColor=white" />
 
-</tr>
+<img src="https://img.shields.io/badge/MLOps-06B6D4?style=for-the-badge&logo=mlflow&logoColor=white" />
 
-<tr>
+<img src="https://img.shields.io/badge/Cloud%20Native-A78BFA?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Backend%20Engineering-F9A8D4?style=for-the-badge&logo=fastapi&logoColor=111827" />
 
-<h3 align="center">Cloud-Native DevOps Platform</h3>
+<img src="https://img.shields.io/badge/Systems%20Programming-0F172A?style=for-the-badge&logo=rust&logoColor=F9A8D4" />
 
-<p align="center">
-Containerized Microservices & CI/CD Platform
-</p>
+</div>
 
-<p>
-A cloud-native DevOps platform built around containerized microservices, API gateway routing, automated CI/CD, Kubernetes deployment, and application monitoring.
-</p>
+---
 
-<p align="center">
-<strong>Docker · Kubernetes · GitHub Actions · Prometheus · Grafana · Nginx</strong>
-</p>
+## GitHub Activity
 
-</td>
+<div align="center">
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/github/followers/rvitmonisha?label=Followers&style=for-the-badge&logo=github&color=7C3AED" />
 
-<h3 align="center">Technical Interests</h3>
+<img src="https://img.shields.io/github/stars/rvitmonisha?label=Stars&style=for-the-badge&logo=github&color=06B6D4" />
 
-<p>
-I am continuously exploring software engineering, artificial intelligence, backend systems, cloud-native development, DevOps, system design, and efficient problem solving.
-</p>
+</div>
 
-<p align="center">
-<strong>Build · Deploy · Learn · Improve</strong>
-</p>
+<br/>
 
-</td>
+<div align="center">
 
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=rvitmonisha&theme=tokyonight&hide_border=true&ring=A78BFA&fire=F9A8D4&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B" width="95%" />
 
-<hr>
+</div>
 
-<h2 align="center">Current Learning Focus</h2>
+<br/>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java%20Programming-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF69B4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF69B4?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20Engineering-FF69B4?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Native-FF69B4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvitmonisha&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=67E8F9&line=A78BFA&point=F9A8D4" width="95%" />
 
-</p>
+</div>
 
-<hr>
+---
 
-<h2 align="center">Let's Connect</h2>
+## Development Philosophy
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
-<a href="https://www.linkedin.com/in/m-n-monisha">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20with%20me-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
+### Learn → Build → Debug → Improve → Repeat
 
-<td width="25"></td>
+<br/>
 
-<td align="center">
-<a href="mailto:mnmonisha39@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-mnmonisha39%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</td>
+> **First, solve the problem. Then, write the code.**
 
-</tr>
-</table>
+</div>
 
-<p align="center">
-<sub>Building practical solutions • Solving problems • Growing as a software engineer</sub>
-</p>
+---
+
+## Beyond Code
+
+<div align="center">
+
+`Gym`   ·   `Archery`   ·   `Basketball`   ·   `Cooking`
+
+</div>
+
+<br/>
+
+I believe good developers are not just people who write code. They are people who stay curious, keep experimenting, understand why things work, and are willing to build something they have never built before.
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rvitmonisha&label=Profile%20Visitors&color=7C3AED&style=for-the-badge" />
+
+<br/>
+<br/>
+
+### Thanks for visiting my profile
+
+<i>Built with curiosity, caffeine, and lots of debugging.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+
+</div>
