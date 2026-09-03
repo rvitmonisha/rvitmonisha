@@ -376,13 +376,7 @@ Systems
 
 ---
 
-## Beyond Code
 
-<div align="center">
-
-`Gym`   ·   `Archery`   ·   `Basketball`   ·   `Cooking`
-
-</div>
 
 <br/>
 
