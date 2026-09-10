@@ -84,17 +84,17 @@ I am building my development experience through AI/ML projects, full-stack appli
 | Systems           | Rust programming, Linux, and systems programming fundamentals                             |
 
 <!-- OSS_PR_HIGHLIGHTS_START -->
-
-*Auto-updated daily by GitHub Actions. Sorted by target repository stars and excluding onboarding-only PRs.*
+_Auto-updated daily by GitHub Actions. Sorted by target repository stars and excluding onboarding-only PRs._
 
 **Merged PRs**
 
-* No merged PR highlights found yet.
+- [rvitmonisha/amazon-canada-product-intelligence #12](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/12) - Feature/product dashboard. _(0 stars)_
+- [rvitmonisha/amazon-canada-product-intelligence #11](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/11) - Feature/product dashboard. _(0 stars)_
+- [rvitmonisha/amazon-canada-product-intelligence #10](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/10) - feat: add React product dashboard. _(0 stars)_
 
 **Open / Under Review**
 
-* No open PR highlights found right now.
-
+- No open PR highlights found right now.
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
