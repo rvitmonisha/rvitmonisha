@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Computer%20Science%20Student-0F172A?style=for-the-badge&logo=academia&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/RVITM-0F172A?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%7C%20Full%20Stack-0F172A?style=for-the-badge&logo=python&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%7C%20Full-Stack-0F172A?style=for-the-badge&logo=python&logoColor=F9A8D4" />
 
 </div>
 
@@ -82,6 +82,7 @@ I am building my development experience through AI/ML projects, full-stack appli
 | Full Stack        | React, React Native, Node.js, Express, FastAPI, and MongoDB applications                  |
 | Data Intelligence | Web scraping, product intelligence, analytics, and data-driven applications               |
 | Systems           | Rust programming, Linux, and systems programming fundamentals                             |
+| Infrastructure & Observability | eBPF, Linux kernel telemetry, infrastructure monitoring, security detection, and anomaly detection |
 
 <!-- OSS_PR_HIGHLIGHTS_START -->
 _Auto-updated daily by GitHub Actions. Sorted by target repository stars and excluding onboarding-only PRs._
@@ -101,117 +102,83 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=111111)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111111)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Frontend**
+### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=111111)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend and APIs**
+### Backend and APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square\&logo=postman\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square&logo=postman&logoColor=white)
 
-**AI / ML**
+### AI / ML
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F766E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square\&logo=xgboost\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F766E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**ML Tools**
+### ML Tools
 
-![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square\&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-111827?style=flat-square\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square\&logo=mlflow\&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-111827?style=flat-square&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-111827?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-**Databases, Cloud, and Tools**
+### eBPF & Linux Systems
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF-FF6B35?style=flat-square&logo=linux&logoColor=white)
+![libbpf](https://img.shields.io/badge/libbpf-0F172A?style=flat-square&logo=linux&logoColor=white)
+![Clang/LLVM](https://img.shields.io/badge/Clang%2FLLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![BTF](https://img.shields.io/badge/BTF-334155?style=flat-square&logo=linux&logoColor=white)
+![CO-RE](https://img.shields.io/badge/CO--RE-334155?style=flat-square&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![WSL2](https://img.shields.io/badge/WSL2-0F172A?style=flat-square&logo=linux&logoColor=white)
+
+### Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-0F172A?style=flat-square&logo=prometheus&logoColor=white)
+
+### Databases, Cloud, and Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-| Project                                | Focus                                                                                                            | Stack                                                         |
+| Project | Focus | Stack |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **Lunara**                             | AI-powered women's health application with PCOS risk analysis, emotion insights, and intelligent health features | React Native, FastAPI, Node.js, MongoDB, ML                   |
-| **AutoML Researcher**                  | Automated ML experimentation, hyperparameter optimization, model evaluation, and explainability                  | Python, Scikit-learn, XGBoost, LightGBM, Optuna, SHAP, MLflow |
-| **AI Airway Obstruction Detection**    | Respiratory sound classification using MFCC, spectrograms, and deep learning                                     | Python, TensorFlow/Keras, MFCC                                |
-| **AI Website Intelligence Platform**   | Website scraping, AI-powered processing, structured information extraction, and interactive results              | FastAPI, React, Python                                        |
-| **Amazon Canada Product Intelligence** | Product extraction, price tracking, analytics, search, and filtering                                             | FastAPI, React, Python                                        |
-| **Student Management System**          | Student record management, CRUD workflows, REST APIs, and database integration                                   | MongoDB, Express, React, Node.js                              |
-
----
-
-## Current Focus
-
-* Java and Data Structures & Algorithms
-* Machine Learning and model evaluation
-* Python for AI/ML
-* Full-Stack Development
-* Backend API Development
-* Explainable AI
-* Docker and containerization
-* Cloud and DevOps fundamentals
-* Rust and systems programming
-* MLOps and production-oriented ML workflows
-
----
-
-## Leadership and Achievements
-
-* Developing and contributing to technical projects across AI/ML, full-stack development, healthcare technology, and software engineering.
-* Building AI-powered applications that combine machine learning models with practical user-facing systems.
-* Exploring multiple areas of software engineering through academic and personal projects.
-* Continuously improving problem-solving skills through Java, Data Structures & Algorithms, and programming practice.
-* Participating in project-based learning and experimenting with emerging technologies.
-
----
-
-## Currently Exploring
-
-* Advanced Machine Learning and model optimization.
-* Explainable AI and model interpretability.
-* AI-powered application development.
-* Full-stack architecture and backend engineering.
-* Docker and containerized applications.
-* Kubernetes and cloud-native development.
-* MLOps and ML deployment workflows.
-* Rust and systems programming.
-* Building scalable AI applications.
-* Open-source contribution and collaborative development.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rvitmonisha&style=flat-square&color=2563eb" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>Building, learning, debugging, and improving — one project at a time.</i>
-</p>
+| **eBPF Infrastructure Intelligence** | Intelligent infrastructure observability and security platform using Linux kernel-level telemetry, behavioral detection, anomaly detection, incident correlation, and monitoring | eBPF, C, libbpf, Linux, Python, Prometheus, Grafana, Docker, Kubernetes |
+| **Lunara** | AI-powered women's health application with PCOS risk analysis, emotion insights, and intelligent health features | React Native, FastAPI, Node.js, MongoDB, ML |
+| **AutoML Research
