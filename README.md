@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=28&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+M+N+Monisha;AI%2FML+%2B+Backend+%26+Cloud+Infrastructure+Developer;Building+Ideas+Into+Real+Projects" alt="Hi, I'm M N Monisha" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=800&size=36&duration=2800&pause=1200&color=F472B6&center=true&vCenter=true&width=700&height=70&lines=%E2%9C%A6+M+N+Monisha+%E2%9C%A6" alt="M N Monisha" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=18&duration=3000&pause=1200&color=CBD5E1&center=true&vCenter=true&width=750&height=40&lines=AI%2FML+%2B+Backend+%26+Cloud+Infrastructure+Developer;Building+Ideas+Into+Real+Projects" alt="AI ML Backend and Cloud Infrastructure Developer" />
 
 <br/>
 
@@ -29,7 +33,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,rust" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,rust" alt="Programming languages" />
 </p>
 
 <p align="center">
@@ -75,29 +79,32 @@
 
 I am building my development experience through AI/ML projects, backend systems, cloud infrastructure, full-stack applications, data-driven applications, systems programming, and developer-focused projects.
 
-| Area | Projects and Focus |
-| ----------------- | ----------------------------------------------------------------------------------------- |
-| AI and ML | Machine learning models, prediction systems, explainable AI, and intelligent applications |
-| Healthcare AI | Lunara and respiratory sound analysis projects |
-| Backend Engineering | Node.js, Express, FastAPI, Flask, REST APIs, databases, and scalable backend applications |
-| Full Stack | React, React Native, Node.js, Express, FastAPI, and MongoDB applications |
-| Data Intelligence | Web scraping, product intelligence, analytics, and data-driven applications |
-| Systems | Rust programming, Linux, and systems programming fundamentals |
-| Cloud & Infrastructure | Docker, Kubernetes, AWS, Nginx, Prometheus, Grafana, and cloud-native infrastructure |
+| Area                           | Projects and Focus                                                                                 |
+| ------------------------------ | -------------------------------------------------------------------------------------------------- |
+| AI and ML                      | Machine learning models, prediction systems, explainable AI, NLP, and intelligent applications     |
+| Healthcare AI                  | Lunara and respiratory sound analysis projects                                                     |
+| NLP                            | Text classification, TF-IDF, Logistic Regression, RAG, vector retrieval, and NLP applications      |
+| Backend Engineering            | Node.js, Express, FastAPI, Flask, REST APIs, JWT authentication, and scalable backend applications |
+| Full Stack                     | React, React Native, Node.js, Express, FastAPI, Vite, and MongoDB applications                     |
+| Data Intelligence              | Web scraping, product intelligence, analytics, and data-driven applications                        |
+| Systems                        | Rust programming, Linux, and systems programming fundamentals                                      |
+| Cloud & Infrastructure         | Docker, Kubernetes, AWS, Nginx, Prometheus, Grafana, and cloud-native infrastructure               |
 | Infrastructure & Observability | eBPF, Linux kernel telemetry, infrastructure monitoring, security detection, and anomaly detection |
 
 <!-- OSS_PR_HIGHLIGHTS_START -->
-_Auto-updated daily by GitHub Actions. Sorted by target repository stars and excluding onboarding-only PRs._
+
+*Auto-updated daily by GitHub Actions. Sorted by target repository stars and excluding onboarding-only PRs.*
 
 **Merged PRs**
 
-- [rvitmonisha/amazon-canada-product-intelligence #12](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/12) - Feature/product dashboard. _(0 stars)_
-- [rvitmonisha/amazon-canada-product-intelligence #11](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/11) - Feature/product dashboard. _(0 stars)_
-- [rvitmonisha/amazon-canada-product-intelligence #10](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/10) - feat: add React product dashboard. _(0 stars)_
+* [rvitmonisha/amazon-canada-product-intelligence #12](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/12) - Feature/product dashboard. *(0 stars)*
+* [rvitmonisha/amazon-canada-product-intelligence #11](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/11) - Feature/product dashboard. *(0 stars)*
+* [rvitmonisha/amazon-canada-product-intelligence #10](https://github.com/rvitmonisha/amazon-canada-product-intelligence/pull/10) - feat: add React product dashboard. *(0 stars)*
 
 **Open / Under Review**
 
-- No open PR highlights found right now.
+* No open PR highlights found right now.
+
 <!-- OSS_PR_HIGHLIGHTS_END -->
 
 ---
@@ -106,111 +113,91 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=111111)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=111111)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=111111)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Backend and APIs
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge\&logo=python\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge\&logo=postman\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
 ### AI / ML
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F766E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0F766E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge\&logo=probot\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge\&logo=xgboost\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### NLP and AI Tools
+
+![TF-IDF](https://img.shields.io/badge/TF--IDF-4B5563?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-4B5563?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge\&logo=openai\&logoColor=white)
+![Vector Retrieval](https://img.shields.io/badge/Vector_Retrieval-6366F1?style=for-the-badge\&logo=databricks\&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-111827?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### ML Tools
 
-![SHAP](https://img.shields.io/badge/SHAP-111827?style=for-the-badge&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-111827?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-111827?style=for-the-badge\&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-111827?style=for-the-badge\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
 ### eBPF and Linux Systems
 
-![eBPF](https://img.shields.io/badge/eBPF-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![libbpf](https://img.shields.io/badge/libbpf-0F172A?style=for-the-badge&logo=linux&logoColor=white)
-![Clang/LLVM](https://img.shields.io/badge/Clang%2FLLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
-![BTF](https://img.shields.io/badge/BTF-334155?style=for-the-badge&logo=linux&logoColor=white)
-![CO-RE](https://img.shields.io/badge/CO--RE-334155?style=for-the-badge&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![WSL2](https://img.shields.io/badge/WSL2-0F172A?style=for-the-badge&logo=linux&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF-FF6B35?style=for-the-badge\&logo=linux\&logoColor=white)
+![libbpf](https://img.shields.io/badge/libbpf-0F172A?style=for-the-badge\&logo=linux\&logoColor=white)
+![Clang/LLVM](https://img.shields.io/badge/Clang%2FLLVM-262D3A?style=for-the-badge\&logo=llvm\&logoColor=white)
+![BTF](https://img.shields.io/badge/BTF-334155?style=for-the-badge\&logo=linux\&logoColor=white)
+![CO-RE](https://img.shields.io/badge/CO--RE-334155?style=for-the-badge\&logo=linux\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=111111)
+![WSL2](https://img.shields.io/badge/WSL2-0F172A?style=for-the-badge\&logo=linux\&logoColor=white)
 
 ### Observability and Monitoring
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Node Exporter](https://img.shields.io/badge/Node_Exporter-0F172A?style=for-the-badge&logo=prometheus&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-0F172A?style=for-the-badge\&logo=prometheus\&logoColor=white)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ### Cloud, DevOps and Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
 
 ### Development and Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-
-## Leadership and Achievements
-
-* Developing and contributing to technical projects across AI/ML, backend development, healthcare technology, systems programming, infrastructure observability, and software engineering.
-* Building AI-powered applications that combine machine learning models with practical user-facing systems.
-* Exploring multiple areas of software engineering through academic and personal projects.
-* Building Linux-based infrastructure projects using eBPF for observability, security detection, and anomaly analysis.
-* Continuously improving problem-solving skills through Java, Data Structures & Algorithms, and programming practice.
-* Participating in project-based learning and experimenting with emerging technologies.
-
----
-
-## Currently Exploring
-
-* Advanced Machine Learning and model optimization.
-* Explainable AI and model interpretability.
-* AI-powered application development.
-* Backend architecture and backend engineering.
-* Cloud infrastructure and cloud-native development.
-* Docker and containerized applications.
-* Kubernetes and cloud-native development.
-* eBPF and Linux kernel observability.
-* Infrastructure security and behavioral anomaly detection.
-* Prometheus and Grafana observability.
-* MLOps and ML deployment workflows.
-* Rust and systems programming.
-* Building scalable AI and infrastructure applications.
-* Open-source contribution and collaborative development.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
