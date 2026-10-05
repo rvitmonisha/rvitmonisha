@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=28&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+M+N+Monisha;AI%2FML+%2B+Full-Stack+Developer;Building+Ideas+Into+Real+Projects" alt="Hi, I'm M N Monisha" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=600&size=28&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+M+N+Monisha;AI%2FML+%2B+Backend+%26+Cloud+Infrastructure+Developer;Building+Ideas+Into+Real+Projects" alt="Hi, I'm M N Monisha" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Computer%20Science%20Student-0F172A?style=for-the-badge&logo=academia&logoColor=67E8F9" />
 <img src="https://img.shields.io/badge/RVITM-0F172A?style=for-the-badge&logo=google-scholar&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%7C%20Full%20Stack-0F172A?style=for-the-badge&logo=python&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%7C%20Backend%20%26%20Cloud%20Infrastructure-0F172A?style=for-the-badge&logo=python&logoColor=F9A8D4" />
 
 </div>
 
@@ -15,11 +15,11 @@
 ## About Me
 
 <p align="center">
-  I am a Computer Science student interested in Artificial Intelligence, Machine Learning, Full-Stack Development, Backend Engineering, and Systems Programming.
+  I am a Computer Science student interested in Artificial Intelligence, Machine Learning, Backend Engineering, Cloud Infrastructure, Systems Programming, and Full-Stack Development.
 </p>
 
 <p align="center">
-  I enjoy building practical applications that combine intelligent models with real-world software solutions.
+  I enjoy building practical applications that combine intelligent models with scalable backend systems, cloud technologies, and real-world infrastructure solutions.
 </p>
 
 ---
@@ -73,15 +73,17 @@
 
 ## Open Source Activity
 
-I am building my development experience through AI/ML projects, full-stack applications, backend systems, data-driven applications, and developer-focused projects.
+I am building my development experience through AI/ML projects, backend systems, cloud infrastructure, full-stack applications, data-driven applications, systems programming, and developer-focused projects.
 
 | Area | Projects and Focus |
 | ----------------- | ----------------------------------------------------------------------------------------- |
 | AI and ML | Machine learning models, prediction systems, explainable AI, and intelligent applications |
 | Healthcare AI | Lunara and respiratory sound analysis projects |
+| Backend Engineering | Node.js, Express, FastAPI, Flask, REST APIs, databases, and scalable backend applications |
 | Full Stack | React, React Native, Node.js, Express, FastAPI, and MongoDB applications |
 | Data Intelligence | Web scraping, product intelligence, analytics, and data-driven applications |
 | Systems | Rust programming, Linux, and systems programming fundamentals |
+| Cloud & Infrastructure | Docker, Kubernetes, AWS, Nginx, Prometheus, Grafana, and cloud-native infrastructure |
 | Infrastructure & Observability | eBPF, Linux kernel telemetry, infrastructure monitoring, security detection, and anomaly detection |
 
 <!-- OSS_PR_HIGHLIGHTS_START -->
@@ -181,3 +183,186 @@ _Auto-updated daily by GitHub Actions. Sorted by target repository stars and exc
 
 ---
 
+
+
+### Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Kernel Observability | eBPF, libbpf, Linux |
+| eBPF Development | C, Clang/LLVM, BTF, CO-RE |
+| Application Logic | Python |
+| Containerization | Docker |
+| Orchestration | Kubernetes |
+| Monitoring | Prometheus, Grafana |
+| Node Metrics | Node Exporter |
+| Development | WSL2 Ubuntu, Git, GitHub |
+
+### Project Structure
+
+```text
+ebpf-infrastructure-intelligence/
+├── ebpf/
+│   └── process/
+│       └── eBPF programs and userspace loader
+├── collector/
+│   ├── adapters/
+│   ├── parsers/
+│   └── event_pipeline/
+├── security/
+│   └── detection_engine/
+├── intelligence/
+│   └── anomaly_detection/
+├── correlation/
+│   └── integration/
+├── reporting/
+├── monitoring/
+├── k8s/
+├── reports/
+├── storage/
+├── Dockerfile
+└── README.md
+```
+
+### Monitoring Metrics
+
+```text
+ebpf_exporter_up
+ebpf_events_total
+ebpf_collector_running
+ebpf_collector_errors_total
+ebpf_last_event_timestamp_seconds
+ebpf_security_alerts_total
+ebpf_behavior_alerts_total
+ebpf_anomalies_total
+ebpf_incidents_analyzed_total
+ebpf_recommendations_total
+```
+
+These metrics provide visibility into **event volume, collector health, security activity, behavioral alerts, anomalies, and incident processing**.
+
+### Detection
+
+The platform currently supports:
+
+- Suspicious process detection
+- System-call activity detection framework
+- Network activity detection framework
+- Repeated process execution detection
+- Per-process event-frequency anomaly detection
+- Incident-level analysis
+
+Detection results include structured evidence such as:
+
+- Process ID
+- Process name
+- Event type
+- Severity
+- Event count
+- Analysis information
+
+### Deployment
+
+The project is designed to run in a Linux environment and has been tested using **WSL2 Ubuntu with Docker Desktop Kubernetes**.
+
+Example Kubernetes components:
+
+```text
+ebpf-intelligence namespace
+├── ebpf-metrics
+├── prometheus
+└── node-exporter
+```
+
+Prometheus collects metrics from the eBPF monitoring exporter, while Grafana provides visualization.
+
+### Validation
+
+The implementation has been validated for:
+
+- Real eBPF process event collection
+- Event parsing and pipeline processing
+- Security detection
+- Behavioral detection
+- Per-process anomaly detection
+- Incident analysis
+- JSON report generation
+- Prometheus metric exposure
+- Prometheus scraping
+- Grafana integration
+- Kubernetes deployment
+
+### Future Enhancements
+
+- Risk/threat scoring
+- Advanced incident visualization
+- System-call and network eBPF probes
+- Container/Kubernetes workload correlation
+- Automated regression testing
+- Performance benchmarking
+- Policy-controlled remediation
+- Multi-node infrastructure intelligence
+
+### Project Repository
+
+**GitHub:** [rvitmonisha/ebpf-infrastructure-intelligence](https://github.com/rvitmonisha/ebpf-infrastructure-intelligence)
+
+---
+
+## Current Focus
+
+* Java and Data Structures & Algorithms
+* Machine Learning and model evaluation
+* Python for AI/ML
+* Backend Engineering
+* Backend API Development
+* Cloud Infrastructure
+* Explainable AI
+* Docker and containerization
+* Cloud and DevOps fundamentals
+* Kubernetes and cloud-native development
+* eBPF and Linux systems programming
+* Infrastructure observability and security
+* Prometheus and Grafana monitoring
+* Rust and systems programming
+* MLOps and production-oriented ML workflows
+
+---
+
+## Leadership and Achievements
+
+* Developing and contributing to technical projects across AI/ML, backend development, healthcare technology, systems programming, infrastructure observability, and software engineering.
+* Building AI-powered applications that combine machine learning models with practical user-facing systems.
+* Exploring multiple areas of software engineering through academic and personal projects.
+* Building Linux-based infrastructure projects using eBPF for observability, security detection, and anomaly analysis.
+* Continuously improving problem-solving skills through Java, Data Structures & Algorithms, and programming practice.
+* Participating in project-based learning and experimenting with emerging technologies.
+
+---
+
+## Currently Exploring
+
+* Advanced Machine Learning and model optimization.
+* Explainable AI and model interpretability.
+* AI-powered application development.
+* Backend architecture and backend engineering.
+* Cloud infrastructure and cloud-native development.
+* Docker and containerized applications.
+* Kubernetes and cloud-native development.
+* eBPF and Linux kernel observability.
+* Infrastructure security and behavioral anomaly detection.
+* Prometheus and Grafana observability.
+* MLOps and ML deployment workflows.
+* Rust and systems programming.
+* Building scalable AI and infrastructure applications.
+* Open-source contribution and collaborative development.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvitmonisha&style=flat-square&color=2563eb" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Building, learning, debugging, and improving — one project at a time.</i>
+</p>
