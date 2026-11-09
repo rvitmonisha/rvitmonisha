@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi, I'm M N Monisha</h1>
 
 <p align="center">
@@ -10,4 +10,3 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rvitmonisha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-```
